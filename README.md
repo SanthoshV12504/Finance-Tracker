@@ -3,9 +3,9 @@
 ## 📌 Project Overview
 -This is a simple Personal Finance Dashboard built using React.
 It helps users to track income, expenses, and view insights.
--This is a frontend-only application. All data used in this are
+This is a frontend-only application. All data used in this are
 custom sample data.
--No backend or database is connected
+No backend or database is connected
 
 ---
 
@@ -41,12 +41,6 @@ custom sample data.
 - Dashboard
 - Transactions
 - Insights
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here if needed)
 
 ---
 
